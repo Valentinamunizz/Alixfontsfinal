@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Haffer';
+  src: url('./haffer/Haffer-medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Galaxie Copernicus';
+  src: url('./galaxie/GalaxieCopernicus-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
